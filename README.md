@@ -1,7 +1,7 @@
 # CRUD Básico em PYTHON. 
 
 
-- Menu básico de Vendas.
+##_Menu básico de Vendas_
 
 Apenas um Create Read Update Delete básico que eu criei para um projeto de faculdade.
 Espero que seja útil para o aprendizado!
