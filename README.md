@@ -1,18 +1,26 @@
-# Basic Python CRUD 
+# CRUD Básico em PYTHON. 
 
 
+- Abra _MainMenu_ para começar.
 
-
-Just a basic Python CRUD that i created for a college project.
-Hopefully it'll be helpful for begginers to understand and study.
-I'll comment the whole Code soon.
+Apenas um Create Read Update Delete básico que eu criei para um projeto de faculdade.
+Espero que seja útil para o aprendizado!
+Comentarei o código todo em breve.
 
 - MENU
 - CRUD
-- No Database
-- Basic Formatting
+- Sem database
+- Formatação Básica
  
 ## Features
 
-- Basic Oriented Object Programming (OOP)
-- Classes, Objects, Loop.
+- Programação Orientada a Objetos em Python básica
+- Classes, Objetos, Loop.
+- Validador de CPF em python
+- Cadastrar Clientes
+- Produtos
+- Código do Produto
+- Listar Produtos
+- Listar Usuário
+
+Tente aprender modificando o código, adicionando novas funcionalidades, verificações :)
