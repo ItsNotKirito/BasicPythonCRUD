@@ -70,7 +70,6 @@ class InterfaceU:
 
 
 
-
 if __name__ == '__main__':
     interfaceu = InterfaceU()
     interfaceu.loop()
